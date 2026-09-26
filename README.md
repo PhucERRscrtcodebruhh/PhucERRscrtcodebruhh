@@ -33,7 +33,7 @@
   <td>
     <h4>&lt; Quote &gt;</h4>
     <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=2000&color=A9B7C6&center=false&vCenter=true&width=450&height=50&lines=%22If+people+ask+whether+coding+or+drawing+is+harder%2C+drawing+wins.+No+IDE.%22;%22Code+at+least+tells+you+where+the+bug+is+(well%2C+sometimes).%22;%2250%2B+muscle+groups+just+to+draw+a+proper+Shiba.%22;%22Imagine+being+in+the+flow+and+hitting+the+Claude+quota.%22;%22discord.py+might+be+the+most+overlooked+corner+in+history.%22;%E2%80%94+Le+Minh+Phuc" alt="Typing Quotes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=2000&color=A9B7C6&center=false&vCenter=true&width=450&height=50&lines=%22If+people+ask+whether+coding+or+drawing+is+harder%2C+drawing+wins.+No+IDE.%22;%22Code+at+least+tells+you+where+the+bug+is+(well%2C+sometimes).%22;%2250%2B+muscle+groups+just+to+draw+a+proper+Shiba.%22;%22Imagine+being+in+the+flow+and+hitting+the+Claude+quota.%22;%22discord.py+might+be+the+most+overlooked+corner+in+history.%22;%E2%80%94+??????????" alt="Typing Quotes" />
 </p>
   </td>
   <td valign="top">
