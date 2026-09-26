@@ -52,26 +52,32 @@
   <h2>/ Tech & Chaotic Toolkit /</h2>
   <p align="center">
     <kbd>
-      <kbd>Core & Logic</kbd>
+      <kbd>Logic</kbd>
       <br><br>
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript">
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript">
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" title="NodeJS">
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="Python">
+      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="Python">
+      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript">
+      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript">
+      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" title="NodeJS">
     </kbd>
     <kbd>
-      <kbd>Frontend & Tools</kbd>
+      <kbd>Discord Dev</kbd>
       <br><br>
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5">
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS3">
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vitejs" title="Vite">
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git">
+      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="discord-py" title="Python (discord.py)">
     </kbd>
     <kbd>
-      <kbd>AI & Creative Stack</kbd>
+      <kbd>AI</kbd>
       <br><br>
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discordjs" title="Discord Bots">
-      <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code">
+      <img width="32px" src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238AB4F8" alt="gemini" title="Google Gemini">
+      <img width="32px" src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23D97706" alt="claude" title="Claude AI">
+      <img width="32px" src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=%23ffffff" alt="copilot" title="GitHub Copilot">
+    </kbd>
+    <kbd>
+      <kbd>Frontend</kbd>
+      <br><br>
+      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vitejs" title="Vite">
+      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5">
+      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS3">
+      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" title="Next.js">
     </kbd>
   </p>
 </div>
