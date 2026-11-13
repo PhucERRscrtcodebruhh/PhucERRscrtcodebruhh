@@ -64,13 +64,16 @@
       <br><br>
       <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="discord-py" title="Python (discord.py)">
     </kbd>
+    
     <kbd>
-      <kbd>AI</kbd>
-      <br><br>
-      <img width="32px" src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238AB4F8" alt="gemini" title="Google Gemini">
-      <img width="32px" src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23D97706" alt="claude" title="Claude AI">
-      <img width="32px" src="https://api.iconify.design/simple-icons:githubcopilot.svg?color=%23ffffff" alt="copilot" title="GitHub Copilot">
-    </kbd>
+  <kbd>AI</kbd>
+  <br><br>
+  <img width="32px" src="https://iconify.design" alt="gemini" title="Google Gemini">
+  <img width="32px" src="https://iconify.design" alt="claude" title="Claude AI">
+  <img width="32px" src="https://iconify.design" alt="copilot" title="GitHub Copilot">
+</kbd>
+
+    
     <kbd>
       <kbd>Frontend</kbd>
       <br><br>
