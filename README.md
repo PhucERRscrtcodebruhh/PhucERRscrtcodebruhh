@@ -155,9 +155,9 @@
 
 <h2>🌱 / Digital Grass & Cyber Arcade /</h2>
 
-<!-- 1. BÃI CỎ NHỊP SÓNG CYBERPUNK (TỰ ĐỘNG CHẠY NGAY, KHÔNG CẦN ACTION) -->
+<!-- 2. BÃI CỎ PIXEL TÍM NỀN ĐEN (DARK MODE) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhucERRscrtcodebruhh&bg_color=07021A&color=EAE6FF&line=5013e9&point=00E5FF&area=true&area_color=0e00dc&hide_border=false&border_color=5013e9" width="98%" alt="Cyber Activity Graph" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/PhucERRscrtcodebruhh?chart=calendar&format=svg&theme=dark&widget_size=medium&dark_grass_0=161b22&dark_grass_1=0e00dc&dark_grass_2=320ae3&dark_grass_3=5013e9&dark_grass_4=8A63FF" width="100%" alt="GitHub Contribution Lawn" />
 </p>
 
 <!-- 2. BÃI CỎ PIXEL TÍM (TỰ ĐỘNG CHẠY NGAY) -->
